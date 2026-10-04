@@ -26,6 +26,7 @@ const backpack = {
     this.strapLength.right = lengthRight;
     updateBackpack(`Strap lengths updated.`);
   },
+  "weird one": "instructor lies",
 };
 
 const markup = (backpack) => {
